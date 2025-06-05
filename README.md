@@ -26,9 +26,8 @@
 
 - **See Sight Tours** *(Professional)* – Contributed to the frontend by translating Figma designs, resolving live bugs, improving Core Web Vitals using Next.js 13 Pages Router
 - **TripShepherd** *(Professional)* – Worked on frontend fixes and improvements by solving bugs raised by QA teams during testing with Next.js 15 App Router
-- **Web CV** – Responsive developer portfolio with PDF download  
-- **Qurat’s Blog** – Clean static blog with Next.js App Router  
-- **CV Generator** – Minimal, styled resume site using Next.js and Tailwind  
+- **Web CV (https://blogging-website-5b28-lksx3taz3-qurat-ul-ain-siddiques-projects.vercel.app/)** – Responsive developer portfolio with PDF download  
+- **Qurat’s Blog (https://blogging-website-5b28.vercel.app/)** – Clean static blog with Next.js App Router 
 
 ---
 
