@@ -17,7 +17,7 @@
 - Transform Figma designs into polished, pixel-perfect pages
 - Handle live production issues and bug fixes
 - Create responsive layouts across devices
-- - Improve Core Web Vitals and performance
+- Improve Core Web Vitals and performance
 - Integrate dynamic PDF downloads
 
 ---
