@@ -46,5 +46,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/quratulain-siddique/)
 - [GitHub](https://github.com/quratulain-siddique)
+- [LeetCode](https://leetcode.com/u/quratulain-siddique/)
 
 ---
