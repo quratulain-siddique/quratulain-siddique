@@ -55,23 +55,6 @@ A role-based ERP system built using **Flask + SQLite backend** and a static fron
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quratulain-siddique&layout=compact&theme=radical" />
 </p>
 
----
-
-📫 **Connect with me:**
-
-- LinkedIn: https://www.linkedin.com/in/quratulain-siddique/
-- GitHub: https://github.com/quratulain-siddique
-- LeetCode: https://leetcode.com/u/quratulain-siddique/
-
----
-
-📈 **GitHub Stats:**
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=quratulain-siddique&show_icons=true&theme=radical" alt="Qurat's GitHub stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quratulain-siddique&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 ---
 
