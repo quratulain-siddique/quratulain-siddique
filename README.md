@@ -9,13 +9,6 @@ I am a Software Developer specializing in building scalable, responsive, and pro
 
 Currently, I am focused on frontend engineering and full-stack development with real-world project experience.
 
----
-
-💻 **Tech Stack:**
-
-JavaScript • TypeScript • Next.js • React • Node.js • Flask • SQLite • Python
-Tailwind CSS • HTML5 • CSS3 • Firebase • SendGrid  
-Vercel • Netlify • Render • AWS (basic)
 
 ---
 
@@ -54,6 +47,14 @@ A role-based ERP system built using **Flask + SQLite backend** and a static fron
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quratulain-siddique&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+💻 **Tech Stack:**
+
+JavaScript • TypeScript • Next.js • React • Node.js • Flask • SQLite • Python
+Tailwind CSS • HTML5 • CSS3 • Firebase • SendGrid  
+Vercel • Netlify • Render • AWS (basic)
 
 ---
 
