@@ -13,7 +13,7 @@ Currently, I am focused on frontend engineering and full-stack development with 
 
 💻 **Tech Stack:**
 
-JavaScript • TypeScript • Next.js • React • Node.js • Flask • SQLite  
+JavaScript • TypeScript • Next.js • React • Node.js • Flask • SQLite • Python
 Tailwind CSS • HTML5 • CSS3 • Firebase • SendGrid  
 Vercel • Netlify • Render • AWS (basic)
 
